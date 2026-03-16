@@ -17,8 +17,8 @@ The Python application reads database connection parameters from **ConfigMap and
 # Architecture
 
 ```
-                ConfigMap
-         DB_HOST DB_NAME DB_USER
+              ConfigMap
+        (DB_HOST | DB_NAME DB_USER)
                  |
                  v
             Python App
