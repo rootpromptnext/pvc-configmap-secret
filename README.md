@@ -35,10 +35,10 @@ The Python application reads database connection parameters from **ConfigMap and
                  v
          AWS EBS Volume (gp2)
 
-              ^
-              |
-            Secret
-        DB_PASSWORD
+                 ^
+                 |
+               Secret
+            DB_PASSWORD
 ```
 
 ---
