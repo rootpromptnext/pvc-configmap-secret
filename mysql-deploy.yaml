@@ -15,8 +15,8 @@ metadata:
   name: db-secret
 type: Opaque
 stringData:
-  DB_PASSWORD: myapppassword
-  MYSQL_ROOT_PASSWORD: myrootpassword
+  DB_PASSWORD: cmVkaGF0
+  MYSQL_ROOT_PASSWORD: cmVkaGF0
 
 ---
 apiVersion: v1
