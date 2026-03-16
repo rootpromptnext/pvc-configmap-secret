@@ -1,4 +1,4 @@
-# Kubernetes ConfigMap + Secret + PVC + MySQL + Python App (EKS Demo)
+# Kubernetes ConfigMap + Secret + PVC + MySQL + Python App
 
 This project demonstrates a **complete Kubernetes application deployment** using:
 
